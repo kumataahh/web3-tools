@@ -54,7 +54,7 @@ if __name__ == '__main__':
             # 1. 获取channalID
             channalId = "963272583875264625"
             # 2. 获取用户authID
-            auth = "OTU3OTk1NjQwMjQyMTkyNDA1.YnPUXQ._RNa7RgUwQd8U63p1KQ-uv_a5Qw"
+            auth = "OTU3OTk1NjQwMjQyMTkyNDA1.YnPgAQ.MthEgIAQz4D6Xl0eZEc0SguzfgM"
             startChat(channalId, auth)
             sleeptime = random.randrange(120, 180)
             time.sleep(sleeptime)
